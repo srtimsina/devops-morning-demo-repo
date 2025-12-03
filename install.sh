@@ -2,4 +2,5 @@
 
 echo "Demo script"
 apt update
-apt install apache2
+apt install -y apache2
+
